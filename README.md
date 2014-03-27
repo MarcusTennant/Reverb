@@ -11,7 +11,7 @@ In regards to the music theme players are able to load in their own songs. In ad
 As the player gains more points the world gradually gets more colorful and chaotic. This leads to a crescendo when the player grabs a powerup to transform the gameworld to a 3d perspective. 
 
 
-Also included are (unimplemented due to time constraints) python files to upload and display highscores for individual songs to an sql database.
+Also included are (unimplemented due to time constraints) python files to upload and display highscores for individual songs from an sql database.
 
 ![screenshot](./Gameplay1.png)
 ![screenshot](./Gameplay2.png)
