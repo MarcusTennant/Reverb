@@ -1,7 +1,7 @@
 Reverb
 ======
 
-Reverb is a platformer prototype developed by Rob Steiner and Marcus Tennant.
+Reverb is a fast paced platformer prototype developed by Rob Steiner and Marcus Tennant.
 The prototype was developed in 4 weeks as part of a game of the month competition with the theme of music at Penn State.
 
 Reverb is coded in python and uses the Blender Game Engine. The game begins with the player controlling a speaker in typical 2d view. Platforms designed to look like a stereo's equalizers move towards the player, lasting as long as possible and grabbing coins will net the player points.
