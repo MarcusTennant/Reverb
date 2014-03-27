@@ -5,7 +5,7 @@
 import MySQLdb
 
 #Opening database connection. Do not give this information out freely to anyone!!
-db = MySQLdb.connect("www.savagews6.ares.feralhosting.com:31135","root","JSpLwCwY7hkRVhsE","musicGameDB" )
+db = MySQLdb.connect("REDACTED","REDACTED","REDACTED","musicGameDB" )
 
 
 #defining local variables
